@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5587'
     url: http://www.gutenberg.org/2009/agents/5587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14600#Theory-of-Silk-Weaving--13-A-Treatise-on-the-Construction-and-Application-of-Weaves-and-the-D_
 gutenberg_bookshelf:
 - Technology
 - Crafts

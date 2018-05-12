@@ -1,0 +1,31 @@
+_repo: Theory-of-Silk-Weaving--13-A-Treatise-on-the-Construction-and-Application-of-Weaves-and-the-D__14600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolfensberger, Arnold
+    gutenberg_agent_id: '5587'
+    url: http://www.gutenberg.org/2009/agents/5587
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+- Manufacturing
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weaving'
+- !lcsh 'Silk industry'
+- !lcc 'TS'
+title: "Theory of Silk Weaving\r\nA Treatise on the Construction and Application of\
+  \ Weaves, and the Decomposition and Calculation of Broad and Narrow, Plain, Novelty\
+  \ and Jacquard Silk Fabrics"
+url: http://www.gutenberg.org/ebooks/14600
